@@ -39,7 +39,7 @@ My motivation stems from a broader commitment to enhancing mobility and independ
    ```
    git clone https://github.com/ofarrag9/HandiGo.git
    ```
-2. Open `BeaconRideShare.xcodeproj` in Xcode.
+2. Open `HandiGo.xcodeproj` in Xcode.
 3. Build and run the application on your 2 different devices.
 
 ## How to Contribute
