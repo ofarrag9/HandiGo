@@ -4,6 +4,9 @@
 ## Overview
 HandiGo is a innovative rideshare application designed specifically for the visually impaired. By leveraging beacon technology, the app facilitates seamless communication between the passenger's and driver's devices, ensuring passengers can easily locate their ride through vibration and audio cues. The application aims to enhance mobility and independence for visually impaired users, making ridesharing a more accessible and secure experience.
 
+## Demo Video
+This is a demo video I created: [Demo Video](https://www.youtube.com/watch?v=xUSWCPBwAzY)
+
 ## Motvation
 The inception of BeaconRideShare was driven by a desire to make ridesharing a more inclusive and accessible service for everyone, especially for those who are visually impaired. Traditional ridesharing apps rely heavily on visual cues for navigation and driver-passenger coordination, which can be a significant barrier for visually impaired users. I was once struggling to find the location of my Uber driver in a busy area, and so I was wondering how those with visual impairments try to navigate situations like these. This project aims to bridge that gap by leveraging beacon technology to provide an intuitive, non-visual interface that guides users to their ride through audio and haptic feedback.
 
