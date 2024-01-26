@@ -1,8 +1,13 @@
 
-# BeaconRideShare: A Rideshare App for the Visually Impaired
+# HandiGo: A Rideshare App for the Visually Impaired
 
 ## Overview
-BeaconRideShare is a groundbreaking rideshare application designed specifically for the visually impaired. By leveraging beacon technology, the app facilitates seamless communication between the passenger's and driver's devices, ensuring passengers can easily locate their ride through vibration and audio cues. Our application aims to enhance mobility and independence for visually impaired users, making ridesharing a more accessible and secure experience.
+HandiGo is a innovative rideshare application designed specifically for the visually impaired. By leveraging beacon technology, the app facilitates seamless communication between the passenger's and driver's devices, ensuring passengers can easily locate their ride through vibration and audio cues. The application aims to enhance mobility and independence for visually impaired users, making ridesharing a more accessible and secure experience.
+
+## Motvation
+The inception of BeaconRideShare was driven by a desire to make ridesharing a more inclusive and accessible service for everyone, especially for those who are visually impaired. Traditional ridesharing apps rely heavily on visual cues for navigation and driver-passenger coordination, which can be a significant barrier for visually impaired users. I was once struggling to find the location of my Uber driver in a busy area, and so I was wondering how those with visual impairments try to navigate situations like these. This project aims to bridge that gap by leveraging beacon technology to provide an intuitive, non-visual interface that guides users to their ride through audio and haptic feedback.
+
+My motivation stems from a broader commitment to enhancing mobility and independence for individuals with visual impairments. By integrating advanced technology with thoughtful design, HandiGo seeks to empower users, offering them a safer, more reliable, and accessible transportation option. This project is not just about improving the ridesharing experience; it's about fostering inclusivity, promoting independence, and enhancing the quality of life for visually impaired individuals.
 
 ## Key Features
 
@@ -29,10 +34,10 @@ BeaconRideShare is a groundbreaking rideshare application designed specifically 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/BeaconRideShare.git
+   git clone https://github.com/ofarrag9/HandiGo.git
    ```
 2. Open `BeaconRideShare.xcodeproj` in Xcode.
-3. Build and run the application on your device or simulator.
+3. Build and run the application on your 2 different devices.
 
 ## How to Contribute
 Contributions are welcome! Here's how you can help:
@@ -41,9 +46,3 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-## Support
-For support or to report issues, please file an issue on the GitHub issue tracker.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
